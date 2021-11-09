@@ -1,0 +1,25 @@
+
+body {
+    text-align: center;
+}
+
+
+h1 {
+  background-color:#f8f8f8;
+  
+  color:#6b49a1;
+  
+}
+
+img {
+    width: auto;
+    height: 350px;
+}
+
+nav {
+    font-size: 24px;
+}
+
+ul { 
+    list-style-type:none;
+ }
